@@ -4,7 +4,12 @@ using System.Text;
 
 namespace LearnGit
 {
-    class Light
+    class Light : ISwitchable
     {
+        private bool state;
+        public void Switch()
+        {
+            state = !state;
+        }
     }
 }
