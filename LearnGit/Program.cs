@@ -12,8 +12,11 @@ namespace LearnGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("H");
+            Console.WriteLine("Hell");
+            Console.WriteLine("SNTH");
             Console.WriteLine("SNTHSN");
             Console.WriteLine("rlc");
+            Console.WriteLine("cheu");
         }
     }
 }
