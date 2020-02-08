@@ -7,5 +7,6 @@ namespace LearnGit
     class PC
     {
         public string Model { get; set; }
+        public string Processor { get; set; }
     }
 }
