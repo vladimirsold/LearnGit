@@ -15,6 +15,7 @@ namespace LearnGit
             Console.WriteLine("Hell");
             Console.WriteLine("SNTH");
             Console.WriteLine("SNTHSN");
+            Console.WriteLine("cheu");
         }
     }
 }
